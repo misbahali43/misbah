@@ -1,0 +1,14 @@
+/*
+Theme Name: astra child
+Theme URI: http://yoursite.com
+template:astra
+Description: Performag Child Theme
+Author: Paul McCarthy
+Author URI: http://yoursite.com
+Template: performag
+Version: 1.0.0
+Text Domain: astra-child
+*/
+
+body{background-color:blue;
+}
